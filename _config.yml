@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
+title: Barnsley Skunkworks
+email: hello@barnsleyskunk.works
 description: > # this means to ignore newlines until "baseurl:"
+  Barnsley Skunkworks is a small and loosely structured group of people coming together monthly to research and develop innovative technology ideas, prototypes and solutions to town problems identified in Barnsley, South Yorkshire.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://barnsleyskunk.works" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+github_username: BarnsleySkunkworks
 
 # Build settings
 markdown: kramdown
