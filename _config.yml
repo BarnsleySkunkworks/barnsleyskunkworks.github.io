@@ -2,7 +2,7 @@
 title: Barnsley Skunkworks
 email: hello@barnsleyskunk.works
 description: > # this means to ignore newlines until "baseurl:"
-  Barnsley Skunkworks is a small and loosely structured group of people coming together monthly to research and develop innovative technology ideas, prototypes and solutions to town problems identified in Barnsley, South Yorkshire.
+  A small and loosely structured group of people coming together to research and develop innovative technology ideas, prototypes and solutions to town problems in Barnsley, South Yorkshire.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://barnsleyskunk.works" # the base hostname & protocol for your site
 
